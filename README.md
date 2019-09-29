@@ -1,15 +1,14 @@
-# bootstrap-3-grid-sass
+# Bootstrap 3 grid
 > Bootstrap Grid v3.3.7 (Suport IE 8 with html5shiv and respond)
 
-## How to use gulp tasks (This step is optional) 
-*A requirement is that you have installed on your computer [Gulp](http://gulpjs.com/).
+## How to use npm tasks (This step is optional) 
 
 1. Download the repository
-2. Install dependencies
+2. Install dependencies (npm install)
 
 **Task listing**
-- gulp (performs tasks default)
-- gulp sass (Compiles all files  _scss)
+- npm run dev (converts scss to css)
+- npm run build (css compressed)
 
 ## Benefits
 - Usually I use this grid to support older browsers, for example IE 8.
